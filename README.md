@@ -18,5 +18,5 @@ a suitable LCD to show the status of hand movement.
 ![This is an image](https://github.com/azhadzuraimi/Hand_motion_controlled_robottic_arm/blob/master/assets/Images/Receiver.png)
 
 ## **TRANSMITTER**
-![This is an image](https://github.com/azhadzuraimi/Hand_motion_controlled_robottic_arm/blob/master/assets/Images/transmiter.png)
+![This is an image](https://github.com/azhadzuraimi/Hand_motion_controlled_robottic_arm/blob/master/assets/Images/transmitter.png)
 

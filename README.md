@@ -9,14 +9,14 @@ a suitable LCD to show the status of hand movement.
 
 ## **FLOWCHART**
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](/assets/images/flowchart.png)
 
 ## **BLOCK DIAGRAM**
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](/assets/images/Block Diagram.png)
 
 ## **RECEIVER** 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](/assets/images/Receiver.png)
 
 ## **TRANSMITTER**
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](/assets/images/transmiter.png)
 

@@ -9,14 +9,14 @@ a suitable LCD to show the status of hand movement.
 
 ## **FLOWCHART**
 
-![This is an image](/assets/images/flowchart.png)
+![This is an image](https://github.com/azhadzuraimi/Hand_motion_controlled_robottic_arm/blob/master/assets/Images/flowchart.png)
 
 ## **BLOCK DIAGRAM**
-![This is an image](/assets/images/Block Diagram.png)
+![This is an image](https://github.com/azhadzuraimi/Hand_motion_controlled_robottic_arm/blob/master/assets/Images/Block%20Diagram.png)
 
 ## **RECEIVER** 
-![This is an image](/assets/images/Receiver.png)
+![This is an image](https://github.com/azhadzuraimi/Hand_motion_controlled_robottic_arm/blob/master/assets/Images/Receiver.png)
 
 ## **TRANSMITTER**
-![This is an image](/assets/images/transmiter.png)
+![This is an image](https://github.com/azhadzuraimi/Hand_motion_controlled_robottic_arm/blob/master/assets/Images/transmiter.png)
 
